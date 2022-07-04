@@ -1,0 +1,3 @@
+scenario_name;application;automation_status;automation_tool;automation_reference;comments;test_type
+Test c;App b;DNA;;;Not possible due to vbn;Functional
+Test a3;App b;DNA;;;;Functional

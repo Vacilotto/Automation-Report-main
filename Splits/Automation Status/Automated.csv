@@ -1,0 +1,8 @@
+scenario_name;application;automation_status;automation_tool;automation_reference;comments;test_type
+Test a;App b;Automated;WildBadger;idxxx;;E2E
+Test d;App b;Automated;Selenium;Repository z;;Functional
+Teast a4;App b;Automated;WildBadger;idxxx;;Functional
+Teast a5;App b;Automated;WildBadger;idxxx;;Functional
+Teast a6;App b;Automated;WildBadger;idxxx;;Functional
+Teast a7;App b;Automated;WildBadger;idxxx;;Functional
+Teast a8;App b;Automated;WildBadger;idxxx;;Functional
